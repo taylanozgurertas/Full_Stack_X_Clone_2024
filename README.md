@@ -10,25 +10,25 @@ Thanks for everything Rivaan Ranawat. While working on the project, I encountere
 
 Features: 
 
-*Dark Mode
-*Light Mode
-*Sign Up With Email, Password
-*Sign In With Email, Password
-*Tweeting Text
-*Tweeting Image
-*Tweeting Link
-*Hashtag identification & storage
-*Displaying tweets
-*Liking tweet
-*Retweeting
-*Commenting/Replying
-*Follow user
-*Search users
-*Display followers, following, recent tweets
-*Edit User Profile
-*Show tweets that have 1 hashtag
-*Twitter Blue
-*Notifications tab (replied to you, followed you, like your pic, retweeted)
+*Dark Mode <br>
+*Light Mode <br>
+*Sign Up With Email, Password <br>
+*Sign In With Email, Password <br>
+*Tweeting Text <br>
+*Tweeting Image <br>
+*Tweeting Link <br>
+*Hashtag identification & storage <br>
+*Displaying tweets <br>
+*Liking tweet <br>
+*Retweeting <br>
+*Commenting/Replying <br>
+*Follow user <br> 
+*Search users <br>
+*Display followers, following, recent tweets <br>
+*Edit User Profile <br>
+*Show tweets that have 1 hashtag <br>
+*Twitter Blue <br>
+*Notifications tab (replied to you, followed you, like your pic, retweeted) <br>
 
 ## Structure
 
