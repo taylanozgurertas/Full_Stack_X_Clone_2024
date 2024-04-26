@@ -1,0 +1,36 @@
+class AppTexts {
+  static const String hashtagTitle = 'Hashtag';
+  static const String accCreated = 'Account has been created. You can login.';
+  static const String tryingLogin = 'Trying login process...';
+  static const String send = 'Send';
+  static const String whatsHappening = "What's happening ";
+  static const String logout = 'Log out';
+  static const String vipUser = 'VIP user';
+  static const String myProfile = 'My profile';
+  static const String reshared = 'reshared';
+  static const String email = 'Email';
+  static const String name = 'Name';
+  static const String bio = 'Bio';
+  static const String password = 'Password';
+  static const String done = 'Done';
+  static const String dontHaveAc = "Don't you have an account?";
+  static const String signUp = ' Sign up';
+  static const String login = ' Login';
+  static const String alreadyAcc = 'Already have an account?';
+  static const String notifications = 'Notifications';
+  static const String plsEnter = 'Please enter text';
+  static const String repliedYourPost = 'replied your post!';
+  static const String likedYourPost = 'liked your post!';
+  static const String resharedYourPost = 'reshared your post!';
+  static const String reshareded = 'You just reshared it now!';
+  static const String post = 'Post';
+  static const String writeYourReply = 'Write your reply...';
+  static const String followedU = 'followed you!';
+  static const String editProfile = 'Edit profile';
+  static const String follow = 'Follow';
+  static const String unfollow = 'Unfollow';
+  static const String following = 'Following';
+  static const String followers = 'Followers';
+  static const String twitter = 'X';
+  static const String enableDarkMode = 'Turn on dark theme';
+}
