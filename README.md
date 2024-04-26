@@ -34,16 +34,16 @@ Features:
 
 This project uses feature first approach. features> .. > controller, view, widgets arc. This project contains a lot of things. This project has these techs: 
 
-  cupertino_icons: ^1.0.2
-  appwrite: ^12.0.1
-  flutter_svg: ^2.0.10+1
-  flutter_riverpod: ^2.5.1
-  fpdart: ^1.1.0
-  image_picker: ^1.0.7
-  carousel_slider: ^4.2.1
-  timeago: ^3.6.1
-  any_link_preview: ^3.0.1
-  like_button: ^2.0.5
+  cupertino_icons: ^1.0.2 <br>
+  appwrite: ^12.0.1 <br>
+  flutter_svg: ^2.0.10+1 <br>
+  flutter_riverpod: ^2.5.1 <br>
+  fpdart: ^1.1.0 <br>
+  image_picker: ^1.0.7 <br>
+  carousel_slider: ^4.2.1 <br>
+  timeago: ^3.6.1 <br>
+  any_link_preview: ^3.0.1 <br> 
+  like_button: ^2.0.5 <br>
 
 ### Installation 
 
