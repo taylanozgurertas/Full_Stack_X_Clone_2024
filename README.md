@@ -50,14 +50,14 @@ This project uses feature first approach. features> .. > controller, view, widge
 You need to install Docker first after that install Appwrite. And configure it for this project's auth and post db. 
 You can find the configuration settings in Rivaan's video:
 
-Install Appwrite
-Create Appwrite Project Locally
-Create Android & iOS Apps in the Dashboard
-Create Appwrite Database, Storage
-Modify Roles in Auth, Database, Storage
-Create Attributes for Tweets, Users, Notifications Collection
-Copy the required ids & change it in lib/constants/appwrite_constants.dart
-Change your IP Address in lib/constants/appwrite_constants.dart
+Install Appwrite <br>
+Create Appwrite Project Locally <br>
+Create Android & iOS Apps in the Dashboard <br>
+Create Appwrite Database, Storage <br>
+Modify Roles in Auth, Database, Storage <br>
+Create Attributes for Tweets, Users, Notifications Collection <br>
+Copy the required ids & change it in lib/constants/appwrite_constants.dart <br>
+Change your IP Address in lib/constants/appwrite_constants.dart <br>
 
 Server: Appwrite Auth, Appwrite Storage, Appwrite Database, Appwrite Realtime
 
